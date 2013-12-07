@@ -1,5 +1,4 @@
-
-SUPERPOSE- An Excel Visual Basic Program for Fracture 
+SUPERPOSE- An Excel Visual Basic Program for Fracture Modeling
 
 This directory contains the Excel visual basic code to model fractures based on 
 stress superposition method. The program operates on the Excel platform. 
